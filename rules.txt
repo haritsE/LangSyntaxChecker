@@ -1,0 +1,159 @@
+X->a
+X->b
+X->c
+X->d
+X->e
+X->f
+X->g
+X->h
+X->i
+X->j
+X->k
+X->l
+X->m
+X->n
+X->o
+X->p
+X->q
+X->r
+X->s
+X->t
+X->u
+X->v
+X->w
+X->x
+X->y
+X->z
+X->X X
+Z->1
+Z->2
+Z->3
+Z->4
+Z->5
+Z->6
+Z->7
+Z->8
+Z->9
+Z->Z Z
+O-><
+O-><>
+O-><=
+O->>
+O->>=
+O->==
+A->=
+P->+
+P->*
+P->-
+C->a
+C->b
+C->c
+C->d
+C->e
+C->f
+C->g
+C->h
+C->i
+C->j
+C->k
+C->l
+C->m
+C->n
+C->o
+C->p
+C->q
+C->r
+C->s
+C->t
+C->u
+C->v
+C->w
+C->x
+C->y
+C->z
+C->1
+C->2
+C->3
+C->4
+C->5
+C->6
+C->7
+C->8
+C->9
+C-><
+C->>
+C->=
+C->+
+C->*
+C->-
+C->"\n"
+C->" "
+C->(
+C->)
+C->{
+C->}
+C->C C
+B->begin
+E->end
+I->if
+T->then
+L->else
+R->repeat
+U->until
+W->while
+D->do
+New->"\n"
+Sp->" "
+Input->input
+Output->output
+Kurbuk->(
+Kurtup->)
+Kombuk->{
+Komtup->}
+S->BNew YNewE
+BNew->B New
+YNewE->YNew E
+YNew->Y New
+Y->Inbuk Xtup
+Inbuk->Input Kurbuk
+Xtup->X Kurtup
+Y->Outbuk Xtup
+Outbuk->Output Kurbuk
+Y->ISpKSp TNewS
+ISp->I Sp
+KSp->K Sp
+TNew->T New
+TNewS->Tnew S
+ISpKSp->ISp KSp
+ISpKSpTNewS->ISpKSp TNewS
+Y->ISpKSpTNewS NewLNewS
+NewL->New L
+NewS->New S
+NewLNewS->NewL NewS
+Y->RNewYNew USpK
+RNew->R New
+USp->U Sp
+USpK->Usp K
+RNewYNew->RNew YNew
+Y->WSpKSp DNewS
+WSp->W Sp
+KSp->K Sp
+DNew->D New
+DNewS->DNew S
+WSpKSp->WSp KSp
+Y->KomC Komtup
+KomC->Kombuk C
+Y->YNew Y
+Y->XA X
+Y->XA Z
+Y->XA XPZ
+Y->XA XPX
+Y->XA ZPX
+Y->XA ZPZ
+XA->X A
+XP->X P
+XPZ->XP Z
+XPX->XP X
+ZP->Z P
+ZPX->ZP X
+ZPZ->ZP Z
